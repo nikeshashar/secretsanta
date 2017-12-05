@@ -2,21 +2,21 @@
 A tiny technical challenge based around Secret Santa. The description below is an MVP. 
 
 * V1
-  * Organizer should be able to enter your friends details
-  * Organizer should be able to contact them with their secret santa
+  * Organizer should be able to enter your friends' details
+  * Organizer should be able to contact a participant with the details of their secret santa gift recipient
   * Participants should get a message with their secret santa details
   
 * V2
-  * Everyone can only have one Secret Santa 
-  * Each participant should only receive one message with a person
+  * Participants can only have one secret santa gift recipient
+  * Each participant should only receive one message naming their gift recipient
 
 * V3
   * Organizer should be able to set parameters for spending allowance
-  * Organzier should be able to send updates 
+  * Organizer should be able to send updates to all participants 
 
 * V4
-  * Participants should be able to check back for their santa at a later date
-  * Participants should be able to log that they have bought their gift 
+  * Participants should be able to check back for their gift recipient at a later date
+  * Participants should be able to log that they have bought a gift 
  
 * V5
   * Everyone should be able to manage a "wishlist" of gifts 
